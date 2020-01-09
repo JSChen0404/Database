@@ -7,21 +7,21 @@ In daily clinical practice, pathologists need to spend amount time manually sear
 ## Data Description
 The original database contains 4,524 high resolution WSI from two mice’s kidney, one SLE mouse and another mouse without SLE. All 40X scanned images were produced and scanned from whole microscope slide using HAMAMATSU NanoZoomer S360. The whole microscope slides with hematoxylin-eosin staining (H&E) were produced by the specialized staffs from department of Tissue Bank in Chang Gung Memorial Hospital. The size range for each WSI from 1 GB up to 5GB. Some of WSI with annotations for the glomerulus. One WSI may have hundreds of annotations due to the one tissue continue lots of glomerulus.
 
-Image size range: (46,000 ~ 80,000) x (57,000 ~ 65,000)
+Range for Image size: (46,000 ~ 80,000) x (57,000 ~ 65,000)
 
-Data type: .ndpi
+Images type: .ndpi
 
 ## Digital Pathology Images
-	Mouse’s Kidney (Original 46,080 x 59,904)
+	Mouse’s Kidney (Original file 46,080 x 59,904)
 ![Image](https://github.com/cgmhai00/Database/blob/master/original.jpg)
 
-	Mouse’s Kidney (Original x 1.85)
+	Mouse’s Kidney (Original file x 1.85)
 ![Image2](https://github.com/cgmhai00/Database/blob/master/original_v2.jpg)
 
-	Mouse’s Kidney (Original x 1.85)
+	Mouse’s Kidney (Original file x 1.85)
 ![Image3](https://github.com/cgmhai00/Database/blob/master/original_v3.jpg)
 
-	Labeling
+	Labeling Process
 ![Image4](https://github.com/cgmhai00/Database/blob/master/original_labeling.jpg)
 
 ## Download Sample data
