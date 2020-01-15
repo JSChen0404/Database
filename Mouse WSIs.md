@@ -25,7 +25,7 @@ Images type: .ndpi
 ![Image4](https://github.com/cgmhai00/Database/blob/master/original_labeling.jpg)
 
 ## Download Sample data
-TBA
+[S](https://drive.google.com/drive/folders/1K1S5e9WT4XwF8MfahTO0fQo0ScNtJuIv?usp=sharing)
 
 ## How to access the complete data
 Send research proposal to cgmhailab@gmail.com (free format)
